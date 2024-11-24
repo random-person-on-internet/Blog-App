@@ -1,0 +1,8 @@
+.env :
+if created by create react app : 
+compulsory to set env var name by REACT_APP_name
+access : process.env.REACT_APP_name
+
+if created by vite :
+set name : VITE_name
+access : import.meta.env.VITE_name
