@@ -48,7 +48,7 @@ Before you begin, ensure you have the following installed:
 3. Set up Appwrite:
    - Create a project in [Appwrite](https://appwrite.io/) and get your API endpoint and project ID.
    - Set up a database with the relevant collections and documents.
-   - Add all environment variables as given in .env.sample.
+   - Add all environment variables as given in `.env.sample`.
    - Update the `config.js` file with your Appwrite API endpoint and project details.
 
 4. Run the application in development mode:
