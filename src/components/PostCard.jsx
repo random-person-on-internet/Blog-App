@@ -13,7 +13,7 @@ function PostCard({ $id, title, featuredImage }) {
     <Link to={`/post/${$id}`}>
       <div
         className="w-full bg-gray-900 rounded-lg p-5 shadow-md 
-                  hover:shadow-lg hover:shadow-green-500/30 
+                  hover:shadow-lg hover:shadow-green-500/50
                   transition duration-300 border border-gray-700"
       >
         {/* Image */}
