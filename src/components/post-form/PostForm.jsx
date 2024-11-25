@@ -106,7 +106,7 @@ export default function PostForm({ post }) {
         />
         <Input
           label="Slug :"
-          placeholder="Generated automativally"
+          placeholder="Generated automatically or write yourselves"
           className="mb-4"
           {...register("slug", { required: true })}
           onInput={(e) => {
