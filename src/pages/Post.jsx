@@ -46,7 +46,7 @@ export default function Post() {
           />
 
           {isAuthor && (
-            <div className="absolute right-6 top-6">
+            <div className="absolute right-6 top-6 flex space-x-2">
               <Link to={`/edit-post/${post.$id}`}>
                 <Button>Edit</Button>
               </Link>
