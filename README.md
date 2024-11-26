@@ -5,11 +5,8 @@ Welcome to my Blog Application project! This project demonstrates how to build a
 ## Features
 
 - **User Authentication**: Users can sign up, log in, and access their posts.
-- **CRUD Operations**: Users can create, read, update, and delete their own posts. Posts are stored securely using Appwrite.
 - **Post Creation**: Write, edit, and upload posts with titles, content, and featured images.
 - **Routing**: The app uses **React Router** to manage navigation and display individual posts.
-- **State Management**: Redux Toolkit is used to manage global state and handle actions such as fetching, adding, and updating posts.
-- **Appwrite Integration**: The application interacts with the Appwrite backend to store and retrieve data (posts and images).
 
 ## Technologies Used
 
