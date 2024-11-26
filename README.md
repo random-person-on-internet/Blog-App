@@ -6,7 +6,6 @@ Welcome to my Blog Application project! This project demonstrates how to build a
 
 - **User Authentication**: Users can sign up, log in, and access their posts.
 - **Post Creation**: Write, edit, and upload posts with titles, content, and featured images.
-- **Routing**: The app uses **React Router** to manage navigation and display individual posts.
 
 ## Technologies Used
 
